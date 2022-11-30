@@ -1,0 +1,501 @@
+loan_status,Principal,terms,paid_off_time_hours,paid_off_time_datename,past_due_days,age,education,Gender,Due_Date_Day,paid_off_time_month,Due_Date_Month,paid_off_time_days,Effective_date_Month,Effective_date_Day,Repayment_Time
+PAIDOFF,1000,30,19:31,Wednesday,0,45,High School or Below,male,Friday,September,October,6,September,Thursday,29
+PAIDOFF,1000,30,09:00:00,Friday,0,50,Bechalor,female,Friday,October,October,29,September,Thursday,29
+PAIDOFF,1000,30,16:58,Sunday,0,33,Bechalor,female,Friday,September,October,17,September,Thursday,29
+PAIDOFF,1000,15,20:00,Thursday,0,27,college,male,Thursday,September,September,14,September,Thursday,14
+PAIDOFF,1000,30,21:36,Friday,0,28,college,female,Saturday,September,October,14,September,Friday,29
+PAIDOFF,300,7,13:45:00,Friday,0,35,Master or Above,male,Thursday,September,September,0,September,Friday,6
+PAIDOFF,1000,30,23:07:00,Friday,0,29,college,male,Saturday,October,October,28,September,Friday,29
+PAIDOFF,1000,30,20:33:00,Wednesday,0,36,college,male,Saturday,October,October,26,September,Friday,29
+PAIDOFF,1000,30,16:00:00,Saturday,0,28,college,male,Saturday,October,October,29,September,Friday,29
+PAIDOFF,800,15,13:00,Saturday,0,26,college,male,Saturday,September,September,14,September,Saturday,14
+PAIDOFF,300,7,19:11:00,Sunday,0,29,college,male,Friday,September,September,1,September,Saturday,6
+PAIDOFF,1000,15,16:00:00,Sunday,0,39,High School or Below,male,Sunday,October,October,29,September,Saturday,29
+PAIDOFF,1000,30,23:32:00,Friday,0,26,college,male,Sunday,October,October,27,September,Saturday,29
+PAIDOFF,900,7,21:57,Tuesday,0,26,college,female,Friday,September,September,3,September,Saturday,6
+PAIDOFF,1000,7,14:27,Thursday,0,27,High School or Below,male,Friday,September,September,5,September,Saturday,6
+PAIDOFF,800,15,16:00,Saturday,0,26,college,male,Saturday,September,September,14,September,Saturday,14
+PAIDOFF,1000,30,14:21,Tuesday,0,40,High School or Below,male,Sunday,September,October,17,September,Saturday,29
+PAIDOFF,1000,15,18:49,Friday,0,32,High School or Below,male,Saturday,September,September,13,September,Saturday,14
+PAIDOFF,1000,30,22:05:00,Wednesday,0,32,High School or Below,male,Sunday,October,October,25,September,Saturday,29
+PAIDOFF,800,30,07:42,Friday,0,26,college,male,Sunday,September,October,13,September,Saturday,29
+PAIDOFF,1000,30,09:00:00,Sunday,0,26,college,male,Sunday,October,October,29,September,Saturday,29
+PAIDOFF,1000,30,17:09:00,Saturday,0,43,High School or Below,female,Sunday,October,October,28,September,Saturday,29
+PAIDOFF,1000,30,23:00:00,Sunday,0,25,High School or Below,male,Sunday,October,October,29,September,Saturday,29
+PAIDOFF,1000,15,13:00,Saturday,0,26,college,male,Saturday,September,September,14,September,Saturday,14
+PAIDOFF,1000,30,12:50:00,Monday,0,26,college,male,Sunday,October,October,23,September,Saturday,29
+PAIDOFF,1000,30,12:18,Thursday,0,29,High School or Below,male,Sunday,September,October,19,September,Saturday,29
+PAIDOFF,800,15,20:16,Wednesday,0,39,Bechalor,male,Saturday,September,September,11,September,Saturday,14
+PAIDOFF,1000,15,08:21,Friday,0,34,Bechalor,male,Saturday,September,September,13,September,Saturday,14
+PAIDOFF,1000,30,19:17,Thursday,0,31,college,male,Monday,September,October,11,September,Sunday,29
+PAIDOFF,1000,30,17:33:00,Sunday,0,33,college,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,800,15,14:41,Saturday,0,33,High School or Below,male,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,1000,30,21:48:00,Friday,0,37,college,male,Monday,October,October,26,September,Sunday,29
+PAIDOFF,1000,30,17:44:00,Sunday,0,27,college,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,1000,30,07:24:00,Sunday,0,37,college,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,800,15,21:49,Sunday,0,33,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,800,15,09:00,Sunday,0,29,Bechalor,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,16:00:00,Monday,0,27,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,700,15,13:00,Sunday,0,33,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,15,09:00,Sunday,0,24,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,11:33:00,Monday,0,21,Bechalor,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,15,09:00,Sunday,0,32,college,female,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,800,15,14:36,Sunday,0,30,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,7,09:00,Saturday,0,31,Bechalor,male,Saturday,September,September,13,September,Sunday,13
+PAIDOFF,1000,15,15:00,Tuesday,0,30,college,male,Sunday,September,September,9,September,Sunday,14
+PAIDOFF,1000,15,22:29,Wednesday,0,24,Bechalor,female,Sunday,September,September,10,September,Sunday,14
+PAIDOFF,800,7,22:17:00,Monday,0,35,High School or Below,male,Saturday,September,September,1,September,Sunday,6
+PAIDOFF,1000,30,14:14:00,Saturday,0,22,High School or Below,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,30,08:53:00,Sunday,0,32,college,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,1000,30,09:00:00,Monday,0,32,Bechalor,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,800,15,19:21,Sunday,0,50,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,800,15,13:00,Sunday,0,27,college,female,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,09:00:00,Monday,0,35,Bechalor,female,Monday,October,October,29,September,Sunday,29
+PAIDOFF,800,15,04:34,Tuesday,0,35,Bechalor,female,Sunday,September,September,2,September,Sunday,14
+PAIDOFF,1000,30,09:00:00,Monday,0,34,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,16:00:00,Monday,0,21,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,15,16:00,Sunday,0,25,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,09:00:00,Monday,0,27,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,02:33:00,Friday,0,26,Bechalor,male,Monday,October,October,26,September,Sunday,29
+PAIDOFF,800,15,11:40,Saturday,0,44,High School or Below,female,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,800,15,06:38,Thursday,0,39,Master or Above,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,1000,30,21:12,Friday,0,34,Bechalor,male,Monday,September,October,19,September,Sunday,29
+PAIDOFF,1000,15,13:42,Saturday,0,37,college,male,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,1000,30,07:25:00,Saturday,0,34,High School or Below,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,30,11:40:00,Monday,0,45,college,male,Monday,September,October,1,September,Sunday,29
+PAIDOFF,800,15,14:38,Sunday,0,24,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,900,15,23:00,Sunday,0,28,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,12:04:00,Saturday,0,28,Bechalor,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,30,09:00:00,Monday,0,37,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,300,7,22:05,Wednesday,0,35,college,male,Saturday,September,September,3,September,Sunday,6
+PAIDOFF,1000,30,13:27,Saturday,0,43,Bechalor,male,Monday,September,October,13,September,Sunday,29
+PAIDOFF,800,15,21:18,Thursday,0,29,college,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,800,15,22:53,Saturday,0,29,High School or Below,male,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,1000,30,16:00:00,Monday,0,33,Bechalor,female,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,15,09:00,Sunday,0,34,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,15,09:00,Sunday,0,25,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,13:12:00,Saturday,0,30,High School or Below,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,30,13:49:00,Sunday,0,31,Bechalor,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,1000,30,09:00:00,Monday,0,35,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,14:29,Friday,0,37,college,female,Monday,September,October,19,September,Sunday,29
+PAIDOFF,1000,30,09:00:00,Monday,0,44,High School or Below,female,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,16:18,Wednesday,0,28,High School or Below,male,Monday,September,October,10,September,Sunday,29
+PAIDOFF,1000,7,14:53,Tuesday,0,25,college,male,Saturday,September,September,2,September,Sunday,6
+PAIDOFF,1000,15,09:00,Sunday,0,29,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,800,15,13:00,Sunday,0,33,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,13:00:00,Monday,0,37,High School or Below,female,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,09:00:00,Wednesday,0,33,college,male,Wednesday,November,November,59,September,Sunday,59
+PAIDOFF,1000,30,09:00:00,Monday,0,24,High School or Below,female,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,13:01,Saturday,0,27,college,female,Monday,September,October,6,September,Sunday,29
+PAIDOFF,800,15,09:35,Wednesday,0,43,Bechalor,male,Sunday,September,September,10,September,Sunday,14
+PAIDOFF,800,15,20:33,Saturday,0,46,High School or Below,female,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,800,15,09:00,Sunday,0,34,college,female,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,7,09:00,Saturday,0,32,Bechalor,female,Saturday,September,September,6,September,Sunday,6
+PAIDOFF,800,15,00:12,Saturday,0,38,High School or Below,male,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,800,15,12:43,Wednesday,0,27,High School or Below,male,Sunday,September,September,10,September,Sunday,14
+PAIDOFF,1000,30,13:00:00,Monday,0,33,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,20:49:00,Saturday,0,36,college,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,15,05:38,Tuesday,0,26,High School or Below,male,Sunday,September,September,9,September,Sunday,14
+PAIDOFF,1000,30,09:01:00,Monday,0,34,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,09:01:00,Monday,0,22,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,16:55:00,Saturday,0,31,Bechalor,female,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,7,09:00,Saturday,0,29,High School or Below,male,Saturday,September,September,6,September,Sunday,6
+PAIDOFF,800,15,09:00,Sunday,0,38,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,16:00:00,Monday,0,30,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,15,23:48,Sunday,0,45,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,15,13:15,Thursday,0,35,college,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,1000,30,13:31,Friday,0,30,college,male,Monday,September,October,12,September,Sunday,29
+PAIDOFF,1000,30,17:19:00,Saturday,0,31,High School or Below,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,30,09:01:00,Monday,0,31,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,13:05:00,Sunday,0,28,college,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,1000,7,13:00,Saturday,0,29,college,male,Saturday,September,September,13,September,Sunday,13
+PAIDOFF,800,15,20:47,Tuesday,0,29,college,male,Sunday,September,September,9,September,Sunday,14
+PAIDOFF,1000,30,09:00:00,Wednesday,0,27,college,female,Wednesday,November,November,59,September,Sunday,59
+PAIDOFF,1000,30,09:01:00,Monday,0,27,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,13:01:00,Monday,0,33,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,21:39:00,Saturday,0,28,college,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,1000,15,23:00,Sunday,0,25,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,14:23:00,Friday,0,40,college,male,Monday,October,October,26,September,Sunday,29
+PAIDOFF,1000,30,15:25:00,Thursday,0,23,High School or Below,male,Monday,October,October,25,September,Sunday,29
+PAIDOFF,1000,30,06:56:00,Saturday,0,35,Bechalor,male,Monday,October,October,27,September,Sunday,29
+PAIDOFF,800,15,11:58,Friday,0,24,college,male,Sunday,September,September,5,September,Sunday,14
+PAIDOFF,1000,30,16:01:00,Monday,0,34,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,07:02,Tuesday,0,22,High School or Below,male,Monday,September,October,16,September,Sunday,29
+PAIDOFF,1000,15,09:00,Tuesday,0,20,college,male,Tuesday,October,October,44,September,Sunday,44
+PAIDOFF,1000,15,11:02,Saturday,0,23,college,male,Sunday,September,September,13,September,Sunday,14
+PAIDOFF,1000,30,18:57,Thursday,0,33,college,male,Monday,September,October,18,September,Sunday,29
+PAIDOFF,1000,30,13:01:00,Monday,0,26,college,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,15,09:00,Sunday,0,28,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,800,15,12:24,Sunday,0,43,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,15,13:00,Sunday,0,34,Bechalor,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,04:41,Monday,0,38,Bechalor,male,Monday,September,October,15,September,Sunday,29
+PAIDOFF,1000,15,15:44,Thursday,0,26,High School or Below,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,800,15,16:00,Sunday,0,43,High School or Below,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,30,16:13:00,Monday,0,26,High School or Below,male,Monday,October,October,29,September,Sunday,29
+PAIDOFF,1000,30,07:12,Friday,0,33,college,female,Monday,September,October,19,September,Sunday,29
+PAIDOFF,800,15,11:26,Friday,0,24,college,male,Sunday,September,September,12,September,Sunday,14
+PAIDOFF,1000,30,10:26:00,Monday,0,30,High School or Below,male,Monday,September,October,1,September,Sunday,29
+PAIDOFF,800,15,13:00,Sunday,0,32,High School or Below,female,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,15,09:00,Tuesday,0,22,college,male,Tuesday,October,October,44,September,Sunday,44
+PAIDOFF,1000,15,21:45,Thursday,0,47,High School or Below,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,1000,30,20:28:00,Sunday,0,20,High School or Below,male,Monday,October,October,28,September,Sunday,29
+PAIDOFF,1000,30,16:48:00,Saturday,0,28,High School or Below,male,Monday,October,October,20,September,Sunday,29
+PAIDOFF,800,15,09:01,Sunday,0,35,college,male,Sunday,September,September,14,September,Sunday,14
+PAIDOFF,1000,7,20:36,Thursday,0,27,High School or Below,male,Saturday,September,September,4,September,Sunday,6
+PAIDOFF,800,15,15:33,Wednesday,0,33,college,female,Sunday,September,September,10,September,Sunday,14
+PAIDOFF,1000,30,13:36,Thursday,0,30,High School or Below,male,Monday,September,October,18,September,Sunday,29
+PAIDOFF,1000,15,20:51,Thursday,0,31,college,male,Sunday,September,September,11,September,Sunday,14
+PAIDOFF,1000,30,23:00:00,Wednesday,0,26,college,female,Wednesday,November,November,59,September,Sunday,59
+PAIDOFF,300,7,09:00,Sunday,0,37,Master or Above,male,Sunday,September,September,6,September,Monday,6
+PAIDOFF,1000,15,09:00,Monday,0,26,Bechalor,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,800,15,10:14,Saturday,0,35,Bechalor,male,Monday,September,September,12,September,Monday,14
+PAIDOFF,1000,15,09:00,Wednesday,0,29,college,male,Wednesday,October,October,44,September,Monday,44
+PAIDOFF,800,15,20:30,Friday,0,23,college,male,Monday,September,September,11,September,Monday,14
+PAIDOFF,500,15,20:17,Tuesday,0,23,college,female,Monday,September,September,1,September,Monday,14
+PAIDOFF,1000,15,09:00,Monday,0,30,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,07:01:00,Monday,0,34,college,male,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,30,13:00:00,Tuesday,0,36,High School or Below,female,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,09:00,Monday,0,26,Bechalor,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,800,15,14:55,Saturday,0,29,High School or Below,male,Monday,September,September,12,September,Monday,14
+PAIDOFF,1000,15,09:00,Monday,0,28,college,female,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,20:56,Sunday,0,27,High School or Below,male,Tuesday,September,October,13,September,Monday,29
+PAIDOFF,1000,15,10:49,Thursday,0,24,High School or Below,male,Monday,September,September,10,September,Monday,14
+PAIDOFF,800,15,22:09,Sunday,0,31,Bechalor,male,Monday,September,September,13,September,Monday,14
+PAIDOFF,1000,30,09:00:00,Tuesday,0,28,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,09:00,Monday,0,27,college,female,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,15,19:33,Monday,0,25,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,16:00:00,Thursday,0,24,High School or Below,male,Thursday,November,November,59,September,Monday,59
+PAIDOFF,1000,30,16:00:00,Tuesday,0,28,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,800,30,16:00:00,Tuesday,0,28,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,13:00,Monday,0,35,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,13:00:00,Tuesday,0,38,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,16:00,Monday,0,38,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,16:00:00,Tuesday,0,29,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,800,15,13:00,Monday,0,35,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,07:39,Saturday,0,24,college,male,Tuesday,September,October,5,September,Monday,29
+PAIDOFF,800,15,10:30,Thursday,0,39,High School or Below,male,Monday,September,September,10,September,Monday,14
+PAIDOFF,800,15,13:00,Monday,0,25,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,16:00:00,Tuesday,0,38,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,30,20:41:00,Monday,0,30,college,male,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,30,09:00:00,Tuesday,0,21,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,30,08:04:00,Monday,0,46,college,male,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,15,11:00,Saturday,0,31,High School or Below,female,Monday,September,September,12,September,Monday,14
+PAIDOFF,300,7,09:25,Saturday,0,29,High School or Below,male,Sunday,September,September,5,September,Monday,6
+PAIDOFF,1000,30,11:53:00,Friday,0,35,High School or Below,male,Tuesday,October,October,25,September,Monday,29
+PAIDOFF,800,15,08:39,Sunday,0,30,High School or Below,male,Monday,September,September,13,September,Monday,14
+PAIDOFF,1000,30,09:00:00,Tuesday,0,27,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,30,20:28:00,Monday,0,31,High School or Below,female,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,30,10:18:00,Saturday,0,33,Bechalor,male,Tuesday,October,October,19,September,Monday,29
+PAIDOFF,1000,15,16:00,Monday,0,34,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,800,15,21:07,Monday,0,28,college,male,Monday,September,September,7,September,Monday,14
+PAIDOFF,800,15,09:00,Monday,0,42,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,14:38,Friday,0,32,college,male,Tuesday,September,October,18,September,Monday,29
+PAIDOFF,1000,30,13:00:00,Tuesday,0,30,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,20:31,Wednesday,0,25,High School or Below,female,Monday,September,September,2,September,Monday,14
+PAIDOFF,1000,30,09:00:00,Tuesday,0,27,High School or Below,female,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,800,15,16:15,Saturday,0,21,college,male,Monday,September,September,12,September,Monday,14
+PAIDOFF,1000,30,15:49:00,Monday,0,24,college,male,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,30,13:00:00,Thursday,0,29,college,male,Thursday,November,November,59,September,Monday,59
+PAIDOFF,1000,15,10:32,Friday,0,40,college,male,Monday,September,September,11,September,Monday,14
+PAIDOFF,1000,30,14:03,Friday,0,29,High School or Below,male,Tuesday,September,October,18,September,Monday,29
+PAIDOFF,1000,30,14:17:00,Sunday,0,29,college,male,Tuesday,October,October,27,September,Monday,29
+PAIDOFF,1000,15,08:26,Tuesday,0,30,college,male,Monday,September,September,8,September,Monday,14
+PAIDOFF,1000,30,23:00:00,Tuesday,0,26,High School or Below,female,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,20:47,Saturday,0,36,High School or Below,male,Monday,September,September,12,September,Monday,14
+PAIDOFF,800,15,16:00,Monday,0,27,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,09:01:00,Tuesday,0,20,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,7,14:52,Friday,0,26,Bechalor,female,Sunday,September,September,4,September,Monday,6
+PAIDOFF,1000,30,13:00:00,Thursday,0,26,college,male,Thursday,November,November,59,September,Monday,59
+PAIDOFF,1000,30,10:00:00,Sunday,0,27,college,male,Tuesday,October,October,27,September,Monday,29
+PAIDOFF,300,7,14:40:00,Monday,0,23,High School or Below,male,Sunday,September,September,0,September,Monday,6
+PAIDOFF,1000,30,16:00:00,Tuesday,0,39,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,21:58,Friday,0,27,High School or Below,male,Monday,September,September,11,September,Monday,14
+PAIDOFF,1000,30,18:48:00,Saturday,0,30,High School or Below,male,Tuesday,October,October,26,September,Monday,29
+PAIDOFF,1000,30,16:41:00,Monday,0,33,High School or Below,female,Tuesday,October,October,28,September,Monday,29
+PAIDOFF,1000,30,13:01:00,Tuesday,0,27,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,30,02:34,Friday,0,35,High School or Below,male,Tuesday,September,October,4,September,Monday,29
+PAIDOFF,1000,30,16:00:00,Thursday,0,29,college,female,Thursday,November,November,59,September,Monday,59
+PAIDOFF,1000,15,08:11,Wednesday,0,50,High School or Below,male,Monday,September,September,9,September,Monday,14
+PAIDOFF,800,15,09:00,Monday,0,31,High School or Below,female,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,15,13:00,Monday,0,31,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,13:01:00,Tuesday,0,29,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,23:00,Monday,0,35,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,09:01:00,Tuesday,0,39,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,30,13:00:00,Thursday,0,29,college,male,Thursday,November,November,59,September,Monday,59
+PAIDOFF,1000,15,23:00,Monday,0,30,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,10:00:00,Sunday,0,33,Bechalor,male,Tuesday,October,October,27,September,Monday,29
+PAIDOFF,1000,30,13:01:00,Tuesday,0,26,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,14:01,Friday,0,25,High School or Below,male,Monday,September,September,11,September,Monday,14
+PAIDOFF,800,15,13:29,Sunday,0,37,Bechalor,male,Monday,September,September,13,September,Monday,14
+PAIDOFF,800,15,14:50,Sunday,0,26,High School or Below,male,Monday,September,September,13,September,Monday,14
+PAIDOFF,800,15,09:00,Monday,0,26,college,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,15,09:00,Wednesday,0,27,college,male,Wednesday,October,October,44,September,Monday,44
+PAIDOFF,1000,7,09:01,Sunday,0,34,college,female,Sunday,September,September,13,September,Monday,13
+PAIDOFF,1000,30,15:35:00,Saturday,0,37,college,male,Tuesday,October,October,26,September,Monday,29
+PAIDOFF,1000,30,16:01:00,Tuesday,0,36,High School or Below,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,800,15,19:35,Monday,0,33,High School or Below,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,1000,30,21:28:00,Sunday,0,30,High School or Below,male,Tuesday,October,October,27,September,Monday,29
+PAIDOFF,1000,30,16:45:00,Friday,0,30,college,male,Tuesday,October,October,25,September,Monday,29
+PAIDOFF,800,15,12:13,Saturday,0,36,High School or Below,male,Monday,September,September,12,September,Monday,14
+PAIDOFF,1000,15,09:01:00,Tuesday,0,29,college,male,Tuesday,October,October,29,September,Monday,29
+PAIDOFF,1000,15,23:02,Wednesday,0,36,High School or Below,male,Monday,September,September,2,September,Monday,14
+PAIDOFF,1000,30,11:03:00,Saturday,0,32,High School or Below,male,Tuesday,October,October,26,September,Monday,29
+PAIDOFF,1000,15,09:00,Monday,0,29,High School or Below,female,Monday,September,September,14,September,Monday,14
+PAIDOFF,800,15,23:00,Monday,0,36,Bechalor,male,Monday,September,September,14,September,Monday,14
+PAIDOFF,800,15,19:31,Sunday,0,30,High School or Below,female,Monday,September,September,13,September,Monday,14
+PAIDOFF,1000,7,19:48,Wednesday,0,31,college,male,Monday,September,September,1,September,Tuesday,6
+PAIDOFF,1000,30,23:00:00,Wednesday,0,19,High School or Below,female,Wednesday,October,October,29,September,Tuesday,29
+PAIDOFF,800,15,12:48,Sunday,0,26,college,male,Tuesday,September,September,12,September,Tuesday,14
+PAIDOFF,800,15,21:18,Monday,0,34,High School or Below,male,Tuesday,September,September,13,September,Tuesday,14
+PAIDOFF,1000,30,10:22:00,Friday,0,35,High School or Below,male,Wednesday,October,October,24,September,Tuesday,29
+PAIDOFF,1000,15,06:17,Monday,0,35,Bechalor,female,Tuesday,September,September,13,September,Tuesday,14
+PAIDOFF,800,15,16:57,Thursday,0,38,college,male,Tuesday,September,September,9,September,Tuesday,14
+PAIDOFF,1000,30,21:57:00,Sunday,0,29,college,male,Wednesday,October,October,26,September,Tuesday,29
+PAIDOFF,1000,30,12:59:00,Tuesday,0,28,High School or Below,male,Wednesday,October,October,21,September,Tuesday,29
+PAIDOFF,500,7,20:51,Saturday,0,22,High School or Below,male,Monday,September,September,4,September,Tuesday,6
+PAIDOFF,1000,30,23:00:00,Wednesday,0,32,college,male,Wednesday,October,October,29,September,Tuesday,29
+PAIDOFF,1000,30,15:51:00,Saturday,0,31,college,male,Wednesday,October,October,25,September,Tuesday,29
+PAIDOFF,800,15,09:00,Tuesday,0,28,college,male,Tuesday,September,September,14,September,Tuesday,14
+PAIDOFF,1000,15,09:00,Tuesday,0,37,college,female,Tuesday,September,September,14,September,Tuesday,14
+PAIDOFF,1000,7,15:57,Friday,0,25,college,male,Monday,September,September,3,September,Tuesday,6
+PAIDOFF,1000,30,09:00:00,Wednesday,0,19,High School or Below,male,Wednesday,October,October,29,September,Tuesday,29
+PAIDOFF,800,15,07:48,Monday,0,51,college,male,Tuesday,September,September,13,September,Tuesday,14
+PAIDOFF,1000,15,16:53,Wednesday,0,29,High School or Below,male,Tuesday,September,September,8,September,Tuesday,14
+PAIDOFF,800,30,00:29:00,Tuesday,0,23,college,female,Wednesday,October,October,28,September,Tuesday,29
+PAIDOFF,1000,15,10:37,Sunday,0,30,High School or Below,male,Tuesday,September,September,12,September,Tuesday,14
+PAIDOFF,800,15,13:00,Tuesday,0,23,college,male,Tuesday,September,September,14,September,Tuesday,14
+PAIDOFF,1000,15,15:10,Monday,0,34,Bechalor,female,Tuesday,September,September,13,September,Tuesday,14
+PAIDOFF,800,15,12:46,Saturday,0,31,Bechalor,female,Tuesday,September,September,11,September,Tuesday,14
+PAIDOFF,1000,15,09:00,Wednesday,0,24,High School or Below,male,Wednesday,September,September,14,September,Wednesday,14
+PAIDOFF,1000,30,09:00,Thursday,0,42,High School or Below,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,800,30,12:09:00,Thursday,0,40,college,female,Thursday,October,October,22,September,Wednesday,29
+PAIDOFF,1000,30,11:03,Friday,0,29,High School or Below,male,Thursday,October,October,30,September,Wednesday,29
+PAIDOFF,1000,30,17:12:00,Saturday,0,32,college,female,Thursday,October,October,24,September,Wednesday,29
+PAIDOFF,1000,30,09:00:00,Saturday,0,28,college,male,Saturday,November,November,59,September,Wednesday,59
+PAIDOFF,1000,30,09:00,Thursday,0,35,High School or Below,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,1000,30,13:00,Thursday,0,30,Bechalor,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,800,15,15:52,Tuesday,0,44,college,male,Wednesday,September,September,13,September,Wednesday,14
+PAIDOFF,800,15,13:00,Wednesday,0,37,High School or Below,male,Wednesday,September,September,14,September,Wednesday,14
+PAIDOFF,1000,30,09:00,Thursday,0,31,college,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,800,15,00:43,Thursday,0,36,college,male,Wednesday,September,September,1,September,Wednesday,14
+PAIDOFF,800,30,10:25:00,Monday,0,31,college,male,Thursday,October,October,26,September,Wednesday,29
+PAIDOFF,800,15,20:41,Tuesday,0,42,High School or Below,male,Wednesday,September,September,13,September,Wednesday,14
+PAIDOFF,1000,15,09:00,Wednesday,0,28,Bechalor,male,Wednesday,September,September,14,September,Wednesday,14
+PAIDOFF,1000,30,06:51:00,Thursday,0,30,college,male,Thursday,October,October,22,September,Wednesday,29
+PAIDOFF,1000,30,06:25:00,Wednesday,0,30,High School or Below,male,Thursday,October,October,28,September,Wednesday,29
+PAIDOFF,1000,15,22:50,Tuesday,0,24,Bechalor,male,Wednesday,September,September,13,September,Wednesday,14
+PAIDOFF,1000,30,09:00:00,Saturday,0,34,Bechalor,male,Saturday,November,November,59,September,Wednesday,59
+PAIDOFF,1000,30,12:30:00,Wednesday,0,29,college,male,Thursday,October,October,28,September,Wednesday,29
+PAIDOFF,1000,30,03:49:00,Wednesday,0,38,High School or Below,female,Thursday,October,October,28,September,Wednesday,29
+PAIDOFF,1000,30,13:00,Thursday,0,34,Bechalor,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,800,15,07:48,Tuesday,0,28,High School or Below,male,Wednesday,September,September,13,September,Wednesday,14
+PAIDOFF,1000,15,09:28,Thursday,0,30,college,female,Wednesday,September,September,8,September,Wednesday,14
+PAIDOFF,1000,30,16:33:00,Tuesday,0,41,High School or Below,male,Thursday,October,October,27,September,Wednesday,29
+PAIDOFF,1000,30,16:56,Sunday,0,29,college,male,Thursday,September,October,4,September,Wednesday,29
+PAIDOFF,1000,30,09:00,Thursday,0,37,High School or Below,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,1000,30,13:00,Thursday,0,36,Bechalor,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,1000,30,13:00,Thursday,0,30,college,female,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,800,15,04:42,Wednesday,0,27,college,male,Wednesday,September,September,7,September,Wednesday,14
+PAIDOFF,1000,30,09:00,Thursday,0,29,High School or Below,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,1000,30,09:00,Thursday,0,40,High School or Below,male,Thursday,October,October,29,September,Wednesday,29
+PAIDOFF,1000,30,11:00,Thursday,0,28,college,male,Thursday,October,October,29,September,Wednesday,29
+COLLECTION,1000,15,,,76,29,college,male,Friday,,September,,September,Friday,14
+COLLECTION,1000,30,,,61,37,High School or Below,male,Saturday,,October,,September,Friday,29
+COLLECTION,1000,30,,,61,33,High School or Below,male,Saturday,,October,,September,Friday,29
+COLLECTION,800,15,,,76,27,college,male,Friday,,September,,September,Friday,14
+COLLECTION,800,15,,,76,24,Bechalor,male,Friday,,September,,September,Friday,14
+COLLECTION,1000,15,,,75,31,High School or Below,female,Saturday,,September,,September,Saturday,14
+COLLECTION,800,15,,,60,28,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,40,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,33,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,800,15,,,75,41,college,male,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,30,,,60,30,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,800,15,,,75,26,High School or Below,female,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,30,,,60,27,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,20,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,24,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,15,,,60,26,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,30,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,15,,,75,29,High School or Below,male,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,30,,,60,22,Bechalor,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,15,,,75,24,Bechalor,male,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,30,,,60,25,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,28,High School or Below,male,Sunday,,October,,September,Saturday,29
+COLLECTION,1000,30,,,60,37,college,male,Sunday,,October,,September,Saturday,29
+COLLECTION,800,15,,,75,32,college,male,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,15,,,75,34,college,male,Saturday,,September,,September,Saturday,14
+COLLECTION,1000,30,,,59,28,Bechalor,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,35,Bechalor,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,29,27,college,male,Wednesday,,November,,September,Sunday,59
+COLLECTION,1000,30,,,59,24,High School or Below,female,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,44,Bechalor,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,44,31,college,male,Tuesday,,October,,September,Sunday,44
+COLLECTION,800,15,,,74,27,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,21,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,30,High School or Below,female,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,38,college,female,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,34,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,31,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,23,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,74,27,college,female,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,15,,,74,39,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,30,High School or Below,female,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,25,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,74,50,Master or Above,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,23,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,38,Bechalor,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,27,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,29,31,High School or Below,male,Wednesday,,November,,September,Sunday,59
+COLLECTION,800,15,,,74,40,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,32,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,29,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,26,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,74,25,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,35,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,41,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,37,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,59,34,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,45,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,26,Bechalor,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,32,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,28,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,34,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,29,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,26,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,74,26,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,800,15,,,74,22,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,27,High School or Below,female,Monday,,October,,September,Sunday,29
+COLLECTION,800,30,,,59,33,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,28,Bechalor,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,24,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,37,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,36,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,18,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,25,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,15,,,74,40,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,29,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,26,High School or Below,female,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,15,,,74,30,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,33,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,30,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,32,college,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,25,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,800,15,,,74,35,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,15,,,74,30,Bechalor,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,26,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,59,29,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,29,26,High School or Below,male,Wednesday,,November,,September,Sunday,59
+COLLECTION,800,15,,,74,46,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,36,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,15,,,74,38,Bechalor,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,15,,,44,32,High School or Below,male,Tuesday,,October,,September,Sunday,44
+COLLECTION,1000,15,,,74,30,college,male,Sunday,,September,,September,Sunday,14
+COLLECTION,800,15,,,74,35,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,29,college,female,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,29,26,college,male,Wednesday,,November,,September,Sunday,59
+COLLECTION,800,15,,,74,32,High School or Below,male,Sunday,,September,,September,Sunday,14
+COLLECTION,1000,30,,,59,25,High School or Below,male,Monday,,October,,September,Sunday,29
+COLLECTION,1000,30,,,58,33,High School or Below,male,Tuesday,,October,,September,Monday,29
+COLLECTION,800,15,,,73,39,college,male,Monday,,September,,September,Monday,14
+COLLECTION,1000,30,,,28,28,college,male,Thursday,,November,,September,Monday,59
+COLLECTION,1000,30,,,58,26,college,male,Tuesday,,October,,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,11:45:00,Monday,2,26,college,male,Saturday,October,October,31,September,Friday,29
+COLLECTION_PAIDOFF,1000,15,17:00,Tuesday,4,28,college,male,Friday,September,September,18,September,Friday,14
+COLLECTION_PAIDOFF,1000,30,14:10,Sunday,13,39,college,male,Monday,November,November,72,September,Friday,59
+COLLECTION_PAIDOFF,1000,15,15:38,Wednesday,5,29,Bechalor,male,Friday,September,September,19,September,Friday,14
+COLLECTION_PAIDOFF,800,15,17:22,Monday,3,33,High School or Below,male,Friday,September,September,17,September,Friday,14
+COLLECTION_PAIDOFF,1000,30,14:00,Friday,12,27,college,male,Sunday,October,October,41,September,Saturday,29
+COLLECTION_PAIDOFF,800,15,11:03,Monday,2,34,college,male,Saturday,September,September,16,September,Saturday,14
+COLLECTION_PAIDOFF,1000,30,15:39:00,Saturday,27,26,High School or Below,male,Sunday,November,October,56,September,Saturday,29
+COLLECTION_PAIDOFF,1000,30,15:53,Tuesday,44,28,High School or Below,male,Sunday,November,October,73,September,Saturday,29
+COLLECTION_PAIDOFF,1000,15,10:30,Thursday,5,32,Bechalor,male,Saturday,September,September,19,September,Saturday,14
+COLLECTION_PAIDOFF,800,15,15:18:00,Monday,1,27,college,female,Sunday,October,October,30,September,Saturday,29
+COLLECTION_PAIDOFF,1000,30,10:49:00,Saturday,27,21,college,male,Sunday,November,October,56,September,Saturday,29
+COLLECTION_PAIDOFF,800,15,17:10,Tuesday,2,39,college,male,Sunday,September,September,16,September,Sunday,14
+COLLECTION_PAIDOFF,1000,15,11:35,Monday,1,38,college,male,Sunday,September,September,15,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,09:59:00,Wednesday,2,36,High School or Below,female,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,800,15,17:14,Tuesday,2,33,college,male,Sunday,September,September,16,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,12:45:00,Tuesday,1,21,college,female,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,800,15,11:38,Wednesday,3,25,High School or Below,male,Sunday,September,September,17,September,Sunday,14
+COLLECTION_PAIDOFF,800,15,13:21:00,Friday,12,29,college,male,Sunday,October,September,26,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,15:37:00,Friday,25,33,High School or Below,male,Monday,November,October,54,September,Sunday,29
+COLLECTION_PAIDOFF,1000,15,17:39,Wednesday,3,47,High School or Below,female,Sunday,September,September,17,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,09:52:00,Wednesday,2,33,college,male,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,800,15,15:12,Thursday,4,23,High School or Below,male,Sunday,September,September,18,September,Sunday,14
+COLLECTION_PAIDOFF,1000,15,11:17:00,Wednesday,2,24,college,male,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,22:58:00,Thursday,1,27,High School or Below,male,Wednesday,November,November,60,September,Sunday,59
+COLLECTION_PAIDOFF,1000,30,15:23:00,Thursday,24,32,Bechalor,male,Monday,November,October,53,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,16:44:00,Tuesday,1,33,college,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,11:02:00,Tuesday,2,27,college,female,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,13:17:00,Wednesday,2,35,High School or Below,male,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,500,15,17:22:00,Tuesday,1,37,Bechalor,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,800,15,14:02,Wednesday,3,28,Bechalor,male,Sunday,September,September,17,September,Sunday,14
+COLLECTION_PAIDOFF,1000,15,13:42,Thursday,4,33,college,male,Sunday,September,September,18,September,Sunday,14
+COLLECTION_PAIDOFF,800,7,15:00,Monday,2,34,Bechalor,female,Saturday,September,September,8,September,Sunday,6
+COLLECTION_PAIDOFF,1000,30,14:32:00,Wednesday,2,29,college,male,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,11:33:00,Tuesday,1,34,Bechalor,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,16:27:00,Tuesday,1,29,Bechalor,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,15:27,Tuesday,36,24,High School or Below,male,Monday,November,October,65,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,16:13:00,Tuesday,1,34,High School or Below,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,10:06,Monday,7,25,college,female,Monday,October,October,36,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,13:15,Monday,5,24,college,male,Wednesday,November,November,64,September,Sunday,59
+COLLECTION_PAIDOFF,1000,30,16:20,Monday,14,30,college,male,Monday,October,October,43,September,Sunday,29
+COLLECTION_PAIDOFF,1000,15,16:35,Tuesday,2,28,college,male,Sunday,September,September,16,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,11:48:00,Tuesday,1,24,High School or Below,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,19:21:00,Monday,28,26,college,female,Monday,November,October,57,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,16:22:00,Wednesday,2,24,High School or Below,male,Monday,October,October,31,September,Sunday,29
+COLLECTION_PAIDOFF,1000,15,17:24,Tuesday,2,29,college,male,Sunday,September,September,16,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,11:07:00,Friday,25,31,college,male,Monday,November,October,54,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,09:39:00,Wednesday,23,26,college,male,Monday,November,October,52,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,18:18,Thursday,3,25,High School or Below,male,Monday,October,October,32,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,11:29:00,Tuesday,1,29,college,male,Monday,October,October,30,September,Sunday,29
+COLLECTION_PAIDOFF,1000,30,16:27,Thursday,3,38,college,male,Monday,October,October,32,September,Sunday,29
+COLLECTION_PAIDOFF,800,15,11:19,Thursday,4,41,college,male,Sunday,September,September,18,September,Sunday,14
+COLLECTION_PAIDOFF,1000,15,11:17,Wednesday,3,26,High School or Below,male,Sunday,September,September,17,September,Sunday,14
+COLLECTION_PAIDOFF,1000,30,11:04,Friday,3,26,High School or Below,male,Tuesday,October,October,32,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,17:40,Monday,6,35,High School or Below,male,Tuesday,October,October,35,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,09:42,Wednesday,2,37,college,male,Monday,September,September,16,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,15:52,Friday,38,25,college,male,Tuesday,November,October,67,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,14:19,Sunday,19,24,college,male,Tuesday,October,October,48,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,15:10,Thursday,2,34,college,male,Tuesday,October,October,31,September,Monday,29
+COLLECTION_PAIDOFF,800,15,13:36,Wednesday,2,33,college,male,Monday,September,September,16,September,Monday,14
+COLLECTION_PAIDOFF,800,15,15:34,Wednesday,2,38,Bechalor,male,Monday,September,September,16,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,11:55,Thursday,7,38,High School or Below,male,Thursday,November,November,66,September,Monday,59
+COLLECTION_PAIDOFF,1000,30,18:51,Tuesday,5,26,college,male,Thursday,November,November,64,September,Monday,59
+COLLECTION_PAIDOFF,1000,15,10:23,Friday,4,37,Bechalor,male,Monday,September,September,18,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,17:17:00,Friday,1,42,High School or Below,female,Thursday,November,November,60,September,Monday,59
+COLLECTION_PAIDOFF,1000,30,12:54:00,Wednesday,1,49,High School or Below,female,Tuesday,October,October,30,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,09:48,Saturday,4,26,High School or Below,male,Tuesday,October,October,33,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,11:14,Thursday,1,41,High School or Below,male,Wednesday,October,October,45,September,Monday,44
+COLLECTION_PAIDOFF,1000,30,14:14,Saturday,4,38,High School or Below,male,Tuesday,October,October,33,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,09:45:00,Friday,52,26,High School or Below,male,Tuesday,December,October,81,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,15:02,Wednesday,2,32,High School or Below,male,Monday,September,September,16,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,14:46:00,Friday,24,27,Bechalor,male,Tuesday,November,October,53,September,Monday,29
+COLLECTION_PAIDOFF,800,15,12:12,Wednesday,51,33,college,male,Monday,November,September,65,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,19:02,Friday,3,30,High School or Below,male,Tuesday,October,October,32,September,Monday,29
+COLLECTION_PAIDOFF,800,15,11:34,Wednesday,2,26,High School or Below,female,Monday,September,September,16,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,18:12:00,Wednesday,29,35,college,female,Tuesday,November,October,58,September,Monday,29
+COLLECTION_PAIDOFF,800,15,13:07,Monday,5,46,college,female,Wednesday,October,October,49,September,Monday,44
+COLLECTION_PAIDOFF,1000,30,17:38,Thursday,9,27,college,male,Tuesday,October,October,38,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,08:55:00,Monday,27,22,High School or Below,male,Tuesday,November,October,56,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,18:26:00,Wednesday,1,27,Bechalor,male,Tuesday,October,October,30,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,13:44,Tuesday,29,30,Bechalor,male,Monday,October,September,43,September,Monday,14
+COLLECTION_PAIDOFF,1000,15,15:07,Thursday,3,27,High School or Below,male,Monday,September,September,17,September,Monday,14
+COLLECTION_PAIDOFF,800,15,11:40,Tuesday,1,47,college,male,Monday,September,September,15,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,19:08,Tuesday,7,30,college,male,Tuesday,October,October,36,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,09:23,Saturday,4,26,college,male,Tuesday,October,October,33,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,10:07,Friday,3,38,High School or Below,male,Tuesday,October,October,32,September,Monday,29
+COLLECTION_PAIDOFF,800,15,11:36,Monday,56,46,High School or Below,male,Monday,November,September,70,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,12:02,Thursday,2,35,Bechalor,male,Tuesday,October,October,31,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,19:30:00,Sunday,13,45,college,male,Monday,October,September,27,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,18:04:00,Wednesday,1,36,college,male,Tuesday,October,October,30,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,10:53,Monday,6,38,High School or Below,male,Tuesday,October,October,35,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,13:41:00,Wednesday,29,27,college,male,Tuesday,November,October,58,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,17:44,Tuesday,14,27,Bechalor,male,Tuesday,October,October,43,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,12:45,Thursday,3,29,college,male,Monday,September,September,17,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,14:45,Thursday,2,30,High School or Below,male,Tuesday,October,October,31,September,Monday,29
+COLLECTION_PAIDOFF,1000,30,19:08,Friday,3,28,High School or Below,male,Tuesday,October,October,32,September,Monday,29
+COLLECTION_PAIDOFF,1000,15,20:02:00,Monday,14,26,High School or Below,male,Monday,October,September,28,September,Monday,14
+COLLECTION_PAIDOFF,800,15,11:49,Thursday,3,30,college,male,Monday,September,September,17,September,Monday,14
+COLLECTION_PAIDOFF,1000,30,22:40:00,Friday,1,38,college,female,Thursday,November,November,60,September,Monday,59
+COLLECTION_PAIDOFF,1000,30,11:58,Wednesday,8,28,High School or Below,male,Tuesday,October,October,37,September,Monday,29
